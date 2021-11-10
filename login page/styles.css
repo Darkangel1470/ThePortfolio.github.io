@@ -143,7 +143,7 @@ body {
 
 .center button {
     margin-top: 50px;
-    background-color: #59c6d3;
+    background-color: #58a5ae;
     border: none;
     height: 40px;
     font-size: 20px;
@@ -154,4 +154,8 @@ body {
 .center button:hover {
     background-color:aqua;
   
+}
+
+.center p {
+    color: #58a5ae;
 }
